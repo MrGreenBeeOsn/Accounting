@@ -8,10 +8,12 @@
 <h3 align="left">
 
 ```js
+  
 <📷> 🐦 { H ヅ L·L ō World! ☘️☘️☘️ } </📷>
-💜 Design/Programming @hieupgmr202
-💙 Motivation/English @khautronghieu
-💚 #Acctax/ #Spreadsheet ⇊
+💜 Design/Programming
+💙 Motivation/English
+💚 Acctax/Spreadsheet
+  
 ```
   
 </h3>
