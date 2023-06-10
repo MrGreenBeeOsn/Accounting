@@ -10,4 +10,4 @@
 💜 #Design/ #Programming ⇊
 ```
 </h3>
-<a href="https://bio.site/GreenGrapeAcademy">💜 https://bio.site/GreenkGrapeAcademy </a>
+<a href="https://bio.site/GreenGrapeAcademy" target="_blank">💜 https://bio.site/GreenkGrapeAcademy </a>
