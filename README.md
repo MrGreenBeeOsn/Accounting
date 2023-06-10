@@ -4,10 +4,10 @@
 <h3 align="left">
 
 ```js
-<📷> 🐦 {  H ヅ L·L ō World! 🌾🌾🌾 } </📷>
-💚 Acctax/Spreadsheet @hieuacct202
+<📷> 🐦 { H ヅ L·L ō World! ☘️☘️☘️ } </📷>
+💜 Design/Programming @hieupgmr202
 💙 Motivation/English @khautronghieu
-💜 #Design/ #Programming ⇊
+💚 #Acctax/ #Spreadsheet ⇊
 ```
 </h3>
 <a href="https://bio.site/GreenGrapeAcademy" target="_blank">💜 https://bio.site/GreenkGrapeAcademy </a>
