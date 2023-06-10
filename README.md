@@ -9,7 +9,8 @@
 
 ```js
   
-<📷> 🐦 { H ヅ L·L ō World! ☘️☘️☘️ } </📷>
+<📷> 🐦 ☘️☘️☘️ </📷>
+  
 💜 Design/Programming
 💙 Motivation/English
 💚 Acctax/Spreadsheet
