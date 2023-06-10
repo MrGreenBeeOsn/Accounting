@@ -2,7 +2,7 @@
 
 <h3 align="center">Hieu Trong</h3>
 
-<a href="https://sites.google.com/view/hieuacct202" target="_blank">💜 Green Grape Academy </a>
+<a href="https://sites.google.com/view/hieuacct202" target="_blank">💚 Green Grape Academy </a>
 
 
 <h3 align="left">
