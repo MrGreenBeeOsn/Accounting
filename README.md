@@ -16,7 +16,7 @@
 
 ```js
   
-<📷> 🐦 Grape Academy (NProfit) ☘️☘️☘️ </📷>
+<📷> 🐦 Green Grape Academy (NProfit) ☘️☘️☘️ </📷>
 
 💚 Acctax  Spreadsheet 
 💜 Design  Programming
