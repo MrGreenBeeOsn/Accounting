@@ -6,15 +6,15 @@
 
 <h2>
   
-    ```js
-    📗 Hieu Trong
-    ```
+```js
+📗 Hieu Trong
+```
   
 </h2>
 
 <h4 align="left">
 
-    ```js
+```js
 
     <📷> 🐦 Green Grape Academy (NProfit) ☘️☘️☘️ </📷>
 
@@ -22,8 +22,7 @@
     💜 Design  Programming
     💙 Motivation  English
 
-
-    ```
+```
   
 </h4>
 
