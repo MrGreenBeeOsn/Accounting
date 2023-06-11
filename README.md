@@ -4,7 +4,7 @@
 
 </br>
 
-<h3 align="center">📗 Hieu Trong</h3>
+<h3 align="left">📗 Hieu Trong</h3>
 
 </br>
 </br>
@@ -16,11 +16,12 @@
 
 ```js
   
-<📷> 🐦 ☘️☘️☘️ </📷>
-  
+<📷> 🐦 Grape Academy (NProfit) ☘️☘️☘️ </📷>
+
+💚 Acctax/Spreadsheet 
 💜 Design/Programming
 💙 Motivation/English
-💚 Acctax/Spreadsheet
+
   
 ```
   
