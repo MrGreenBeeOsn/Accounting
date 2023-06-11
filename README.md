@@ -38,7 +38,7 @@
 </a>
 
 ```js
-My website
+💻 My website
 ```
 
 <a href="https://www.instagram.com/hieuacct202" target="_blank">
@@ -54,7 +54,7 @@ My website
 </a>
 
 ```js
-Truth Social
+📱 Truth Social
 ```
 
 <a href="https://twitter.com/hieuacct202" target="_blank">
