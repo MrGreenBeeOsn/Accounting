@@ -24,7 +24,7 @@
 ---
 
 ```js
-Follow me
+☘️ Follow me
 ```
 
 <a href="https://sites.google.com/view/hieuacct202" target="_blank">
@@ -40,7 +40,7 @@ My website
 </a>
 
 ```js
-Instagram
+📸 Instagram
 ```
 
 <a href="https://truthsocial.com/@hieuacct202" target="_blank">
@@ -64,7 +64,7 @@ Twitter
 </a>
 
 ```js
-LinkedIn
+👔 LinkedIn
 ```
 
 <a href="https://www.facebook.com/groups/greengrapeacademy" target="_blank">
