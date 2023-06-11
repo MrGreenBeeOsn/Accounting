@@ -4,28 +4,28 @@
 
 </br>
 
-<h3 align="left">📗 Hieu Trong</h3>
+<h2>
+  
+```js
+📗 Hieu Trong
+```
+  
+</h2>
 
-</br>
-</br>
-
-<a href="https://sites.google.com/view/hieuacct202" target="_blank">💚 Green Grape Academy </a>
-
-
-<h3 align="left">
+<h4 align="left">
 
 ```js
   
 <📷> 🐦 Grape Academy (NProfit) ☘️☘️☘️ </📷>
 
-💚 Acctax/Spreadsheet 
-💜 Design/Programming
-💙 Motivation/English
+💚 Acctax  Spreadsheet 
+💜 Design  Programming
+💙 Motivation  English
 
   
 ```
   
-</h3>
+</h4>
 
 ---
 
