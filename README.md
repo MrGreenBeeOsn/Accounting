@@ -7,7 +7,7 @@
 <h2>
   
 ```js
-📗 Hieu Trong
+📗 Hieu Trong Khau
 ```
   
 </h2>
