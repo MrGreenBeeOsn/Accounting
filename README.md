@@ -34,7 +34,7 @@
 </a>
 
 ```js
-📗 Hieu Trong Khau Blog
+📗 GGA Workspace
 ```
 
 </br>
@@ -46,6 +46,15 @@
 ```js
 ☘️ Social Media
 ```
+
+```js
+🏝️ HẬU KẾ TOÁN
+```
+
+<a href="https://www.linkedin.com/groups/14323017/" target="_blank">
+  <img src="https://lh3.googleusercontent.com/pw/AJFCJaWkWyZiP5qSx-5tei9V__kjYuVj5d0xTzrAq83CjrivNNno4-U9B0pmb5VNDPe2s3PQPyDnFbIVAJAK0KFnPst4F-7TXIEJzB4bbaNxSrq3j0NcV-Q2GeKxBfMrRvjp1gjLfW-wVXvYvVZEOfiltzUy=w904-h904-s-no?authuser=0" align="left" width="40px">
+</a>
+
 
 <a href="https://threads.net/@hieuacct202" target="_blank">
   <img src="https://lh3.googleusercontent.com/pw/AIL4fc_nM7JqaHbI5CE6Dgy4M_6-BFmH0caR-1QHUC8DJlI2nsdGOLmXXAyzg2AIxsGvwFo-sZ06Or_bPSrY9lnzWzTIaSTl1x1pTsAy693yZ4lqUh83OxrHBtWZFpbD_PDD8y-5bvFaxXvchZMgGCImLot2=w240-h240-s-no?authuser=0" align="left" width="40px">
