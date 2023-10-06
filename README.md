@@ -55,6 +55,30 @@
 🏝️ HẬU KẾ TOÁN
 ```
 
+<a href="https://www.linkedin.com/groups/14318071/" target="_blank">
+  <img src="https://lh3.googleusercontent.com/pw/AJFCJaWB7bm5r78gb98iYCpYUuFPQVtmWTIAL1ipTI7zumq_o8gBbrI8m-cF-fpd4FmXL-gWRl7ShLZf20fir2ZuWuZSqapfgvIWH26oVvohWHE4nnSokbdMx0ujgKlPCja2i-C5Q0VoViwF_T4HaRjci_N9=w512-h512-s-no?authuser=0" align="left" width="40px">
+</a>
+
+```js
+📗 GGA Workspace
+```
+
+<a href="https://www.linkedin.com/groups/14319039/" target="_blank">
+  <img src="https://lh3.googleusercontent.com/pw/AJFCJaWB7bm5r78gb98iYCpYUuFPQVtmWTIAL1ipTI7zumq_o8gBbrI8m-cF-fpd4FmXL-gWRl7ShLZf20fir2ZuWuZSqapfgvIWH26oVvohWHE4nnSokbdMx0ujgKlPCja2i-C5Q0VoViwF_T4HaRjci_N9=w512-h512-s-no?authuser=0" align="left" width="40px">
+</a>
+
+```js
+📘 BGA Workspace
+```
+
+<a href="https://www.linkedin.com/groups/14320035/" target="_blank">
+  <img src="https://lh3.googleusercontent.com/pw/AJFCJaWB7bm5r78gb98iYCpYUuFPQVtmWTIAL1ipTI7zumq_o8gBbrI8m-cF-fpd4FmXL-gWRl7ShLZf20fir2ZuWuZSqapfgvIWH26oVvohWHE4nnSokbdMx0ujgKlPCja2i-C5Q0VoViwF_T4HaRjci_N9=w512-h512-s-no?authuser=0" align="left" width="40px">
+</a>
+
+```js
+📓 BGA Workspace
+```
+
 
 <a href="https://threads.net/@hieuacct202" target="_blank">
   <img src="https://lh3.googleusercontent.com/pw/AIL4fc_nM7JqaHbI5CE6Dgy4M_6-BFmH0caR-1QHUC8DJlI2nsdGOLmXXAyzg2AIxsGvwFo-sZ06Or_bPSrY9lnzWzTIaSTl1x1pTsAy693yZ4lqUh83OxrHBtWZFpbD_PDD8y-5bvFaxXvchZMgGCImLot2=w240-h240-s-no?authuser=0" align="left" width="40px">
