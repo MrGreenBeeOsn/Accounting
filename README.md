@@ -14,20 +14,20 @@
 
 </h2>
 
-<h4 align="left">
 
 ```js
 
-    <📷> 📗 GGA Workspace ☘️☘️☘️ </📷>
-
-    💚 Acctax  Spreadsheet
-    💙 Motivation  English
-    💜 Design  Programming
-
-
+    Google Chat: Messaging and Team Collaboration
 ```
-  
-</h4>
+
+  ☘️ ` Google Chat ` : https://chat.google.com 
+  </br>
+    🍁 ` Chat in Gmail ` : https://mail.google.com
+  </br>
+    ` Android `: https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite&hl=en&gl=US
+  </br>
+    ` iOS `: https://apps.apple.com/us/app/google-chat/id1163852619
+    
 
 <a href="https://sites.google.com/view/hieuacct202" target="_blank">
   <img src="https://lh3.googleusercontent.com/pw/AJFCJaVsNkuLtQroDBAICu82hsb2J6f8DimhcVtLwiCDQ0Z9IRIoltKgPa5kOr8oJ_0x2O7bbmolUAG2peBb1EXcTv2fEe1fiiauDV4keFo5Xy31H1HBYf-f2cpoAZCkVwynHEL4KALHWogfFZ6Eh406batx=w961-h961-s-no?authuser=0" align="left" width="40px">
